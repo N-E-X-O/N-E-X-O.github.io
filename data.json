@@ -1,0 +1,127 @@
+{
+  "currentAppVersion": "2.0.0",
+  "forceUpdate": false,
+  "title": "Update !!",
+  "body": "Update app to get new features",
+  "updateLink": "https://play.google.com/store/apps/details?id=com.uiux.colorfullistview",
+  "approved": true,
+  "ads": {
+    "adNetwork": "admob",
+    "ids": {
+      "appId": "2215451331176801",
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "inter": "ca-app-pub-3940256099942544/1033173712",
+      "reward": "ca-app-pub-3940256099942544/5224354917",
+      "native": "ca-app-pub-3940256099942544/2247696110",
+      "mRec": "/6499/example/rewarded",
+      "appOpen": "ca-app-pub-3940256099942544/3419835294"
+    },
+    "ids2": {
+      "appId": "2215451331176801",
+      "banner": "98095d8b4ef0b64c",
+      "inter": "ca-app-pub-3940256099942544/1033173712",
+      "reward": "ca-app-pub-3940256099942544/5224354917",
+      "native": "ca-app-pub-5345037485983429/4729397518",
+      "mRec": "/6499/example/rewarded",
+      "appOpen": "ca-app-pub-3940256099942544/3419835294"
+    }
+  },
+  "apps": {
+    "defaultApp": "guide",
+    "sounds": {
+      "categories": [
+        {
+          "title": "MEMES Sounds",
+          "cover": "https://archive.org/download/FamousCharactersTrollFaceOkayMemeFace139927/Famous-characters-Troll-face-Okay-meme-face-139927.png",
+          "audios": [
+            {
+              "title": "You look like a 'hhh'",
+              "url": "https://github.com/Amegodev/amegodev.github.io/raw/master/api/Online%20Audio%20Player/You%20look%20like%20a%20uhhhh.mp3",
+              "cover": "https://files.voicy.network/cdn-cgi/image/height=100,quality=85,format=auto/public/Content/Clips/Images/4280ed3f-ecbf-4654-b967-32fee28da673-small.png"
+            }
+          ]
+        },
+        {
+          "title": "PRANK Sounds",
+          "cover": "https://cdn-icons-png.flaticon.com/512/1384/1384688.png",
+          "audios": [
+            {
+              "title": "You look like a 'hhh'",
+              "url": "https://github.com/Amegodev/amegodev.github.io/raw/master/api/Online%20Audio%20Player/You%20look%20like%20a%20uhhhh.mp3",
+              "cover": "https://files.voicy.network/cdn-cgi/image/height=100,quality=85,format=auto/public/Content/Clips/Images/4280ed3f-ecbf-4654-b967-32fee28da673-small.png"
+            },
+            {
+              "title": "Fuck This Shit I' Ou'",
+              "url": "https://example.com",
+              "cover": "https://files.voicy.network/cdn-cgi/image/height=100,quality=85,format=auto/public/Content/Clips/Images/d6696188-c3bd-4c1e-aa7f-495c06932d30-small.jpg"
+            }
+          ]
+        },
+        {
+          "title": "OTHER SOUND",
+          "cover": "http://cdn.onlinewebfonts.com/svg/img_228274.png",
+          "audios": []
+        }
+      ]
+    },
+    "guide": {
+      "articles": [
+        {
+          "title": "Introduction",
+          "coverUrl": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4679648/3004146656be4fd3a69e364086f787f7/eyJ3Ijo5NjAsIndlIjoxfQ==/2.png?token-time=1672790400&token-hash=OmHWGjNE4jYInWsn6337Evc3ClG5rQuPau2z-CwQE8o%3D",
+          "content": [
+            {
+              "subTitle": "Introduction",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4679648/3004146656be4fd3a69e364086f787f7/eyJ3Ijo5NjAsIndlIjoxfQ==/2.png?token-time=1672790400&token-hash=OmHWGjNE4jYInWsn6337Evc3ClG5rQuPau2z-CwQE8o%3D",
+              "text": "This guide includes:\n\nEngine development concepts.\nSetting up development environment.\nCreating a complete one-lane-tap-only rhythm game engine from scratch.\n",
+              "isNative": true
+            },
+            {
+              "subTitle": "",
+              "linkTitle": "GitHub",
+              "Link": "https://github.com/Sonolus/wiki-sonolus.js-guide-code",
+              "img_url": "",
+              "text": "Source code of the guide's one-lane-tap-only rhythm game engine can be found on Github in the following link 👇",
+              "isNative": false
+            }
+          ],
+          "articles": []
+        },
+        {
+          "title": "Title 2 long one that can be tall more than device width, but this wasn't enaugh so I have to write this nonsense words, someone stop me please",
+          "coverUrl": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/com.fortnitebattleroyale.chaptertwo.seasonnine/wallpapers/image2.png",
+          "content": [],
+          "articles": [
+            {
+              "title": "Title 2 long one that can be tall more than device width, but this wasn't enaugh so I have to write this nonsense words, someone stop me please",
+              "coverUrl": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/com.fortnitebattleroyale.chaptertwo.seasonnine/wallpapers/image2.png",
+              "content": [
+                {
+                  "subTitle": "Hello Hello 1",
+                  "linkTitle": "Download App",
+                  "Link": "https://play.google.com/store/apps/details?id=com.uiux.colorfullistview",
+                  "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
+                  "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+                  "isNative": false
+                },
+                {
+                  "subTitle": "Hello word 2",
+                  "linkTitle": "",
+                  "Link": "",
+                  "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
+                  "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+                  "isNative": false
+                }
+              ],
+            "articles": []
+            }
+          ]
+        }
+      ],
+      "backgroundImg": "https://usercontent1.hubstatic.com/8037694.jpg"
+    },
+    "pdf": {}
+  }
+}
