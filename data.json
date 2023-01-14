@@ -1,112 +1,126 @@
 {
-  "currentAppVersion": "2.0.0",
-  "forceUpdate": false,
-  "title": "Update !!",
-  "body": "Update app to get new features",
-  "updateLink": "https://play.google.com/store/apps/details?id=com.uiux.colorfullistview",
-  "approved": true,
-  "ads": {
-    "adNetwork": "admob",
-    "frequency": 3,
-    "ids": {
-      "appId": "2215451331176801",
-      "banner": "ca-app-pub-3940256099942544/6300978111",
-      "inter": "ca-app-pub-3940256099942544/1033173712",
-      "reward": "ca-app-pub-3940256099942544/5224354917",
-      "native": "ca-app-pub-3940256099942544/2247696110",
-      "mRec": "/6499/example/rewarded",
-      "appOpen": "ca-app-pub-3940256099942544/3419835294"
+    "currentAppVersion": "1.0.0",
+    "forceUpdate": true,
+    "title": "Update available",
+    "body": "New version is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",
+    "updateLink": "https://play.google.com/store/apps/details?id=com.softapp.rythm.sonolus_wiki",
+    "approved": true,
+    "ads": {
+      "adNetwork": "unity",
+      "frequency": 3,
+      "ids": {
+        "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
+        "banner": "0e1801f0d2d177c0",
+        "inter": "712bae85337cd969",
+        "reward": "e3e2458663e289e7",
+        "native": "e3e2458663e289e7",
+        "mRec": "e3e2458663e289e7",
+        "appOpen": "ca-app-pub-3940256099942544/3419835294"
+      }
     },
-    "ids2": {
-      "appId": "2215451331176801",
-      "banner": "98095d8b4ef0b64c",
-      "inter": "ca-app-pub-3940256099942544/1033173712",
-      "reward": "ca-app-pub-3940256099942544/5224354917",
-      "native": "ca-app-pub-5345037485983429/4729397518",
-      "mRec": "/6499/example/rewarded",
-      "appOpen": "ca-app-pub-3940256099942544/3419835294"
+    "apps": {
+      "defaultApp": "guide",
+      "guide": {
+        "articles": [
+          {
+            "title": "Introduction",
+            "coverUrl": "https://i.ytimg.com/vi/owojAGxj2Lc/maxresdefault.jpg",
+            "content": [],
+            "articles": [
+              {
+                "title": "Introduction",
+                "coverUrl": "https://karyaadalahdoa.id/wp-content/uploads/2022/11/Sonolus-Rush-E-Server.jpg",
+                "content": [
+                  {
+                    "subTitle": "Project: Playtime",
+                    "linkTitle": "",
+                    "Link": "",
+                    "img_url": "",
+                    "text": "Project: Playtime is a free-to-play co-op horror experience set in the Playtime Co. toy factory. It was teased by MOB Entertainment on Twitter on October 31, 2022.[1] The game is also a prequel to Poppy Playtime. The early access was supposed to release on December 6, 2022, and the full game is set to be completed around the first half of 2023, with continuous updates in the future adding more maps, skins, monsters and a full overarching story.",
+                    "isNative": false
+                  },
+                  {
+                    "subTitle": "",
+                    "linkTitle": "",
+                    "Link": "",
+                    "img_url": "",
+                    "text": "On October 31, 2022, a reveal image of Project: Playtime was released alongside a FTP server code to tease upcoming areas within Project: Playtime. Multiple areas and Boxy Boo was teased until November 24, 2022, when a Cinematic trailer, the Steam page, and a Gameplay trailer were all released to show what to expect in Project: Playtime. Alongside all of this, it was confirmed that the early access release date for this game would be December 12, 2022 instead of December 6, 2022.",
+                    "isNative": false
+                  },
+                  {
+                    "subTitle": "",
+                    "linkTitle": "",
+                    "Link": "",
+                    "img_url": "",
+                    "text": "The game, confirmed, was previously estimated to be released at 7:30 CST on December 6th, although it was confirmed that there was additional server back-end issues that the programmers had to fix before release. An entire 12 hours go by without a word until Micah Preciado and Isaac Christopherson state that they aren't able to fix the bug that specific day. As of December 8th, we have not had any news regarding a possible release date.",
+                    "isNative": false
+                  }
+                ]
+              },  
+              {
+                "title": "Gameplay",
+                "coverUrl": "https://play-lh.googleusercontent.com/IF-HGG6iRh5DmnJqSGJ1_r4MJlMKG2SpCIdD1j3hmVniOB5LKXm9L2ancLdvb2dYhg=w800-h500",
+                "content": [
+                  {
+                    "subTitle": "Gameplay",
+                    "linkTitle": "",
+                    "Link": "",
+                    "img_url": "",
+                    "text": "Project: Playtime is a spin-off, multi-player online game that allows seven different players to join a lobby together to play a game. Six players will play as, as Leith Pierre explains it, 'Resource Extraction Specialists' that must collect six different toy parts scattered around the factory. Some of these parts require puzzles that one or multiple other players must be involved in to obtain said items.\nWhile this is happening, the final seventh player can choose to be one of the three notable antagonists seen within the Poppy Playtime franchise: Huggy Wuggy, Mommy Long Legs, and the brand new monster, Boxy Boo. The monster is tasked with defeating all six players no matter the costs, having unique and special abilities to assist them.",
+                    "isNative": false
+                  },
+                  {
+                    "subTitle": "Features",
+                    "linkTitle": "",
+                    "Link": "",
+                    "img_url": "",
+                    "text": "As a survivor, you must complete six different puzzles seen on the Puzzle Pillars spread across the two current maps. Each Survivor will wield a GrabPack, which can be used to complete said puzzles, close doors, etc. The survivors must collect all six Toy Parts before merging all the parts together to create the train alongside reboarding the train once again to finish their job.",
+                    "isNative": false
+                  },
+                  {
+                    "subTitle": "",
+                    "linkTitle": "",
+                    "Link": "",
+                    "img_url": "",
+                    "text": "As a monster, you have three distinct characters to choose from, each one a living, gargantuan monstrosity based off a Playtime Co. toy. Huggy Wuggy, Mommy Long Legs, and newcomer Boxy Boo all offer their own sets of abilities and unique styles of play. Whether you wish to be a manic brute with Huggy, quick and nimble with Mommy, or a springy hunter with Boxy, there's a monster to fit the bill.",
+                    "isNative": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "How to play",
+            "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1961460/ss_a787de5919c09a308d02e4d0d5be832395a9d736.1920x1080.jpg?t=1670860786",
+            "content": [
+              {
+                "subTitle": "Coming soon",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "",
+                "isNative": true
+              }
+            ]
+          }
+        ],
+        "backgroundImg": "https://cdn.akamai.steamstatic.com/steam/apps/1961460/ss_a787de5919c09a308d02e4d0d5be832395a9d736.1920x1080.jpg?t=1670860786"
+      },
+      "sounds": {
+        "categories": [
+          {
+            "title": "MEMES Sounds",
+            "cover": "https://archive.org/download/FamousCharactersTrollFaceOkayMemeFace139927/Famous-characters-Troll-face-Okay-meme-face-139927.png",
+            "audios": [
+              {
+                "title": "You look like a 'hhh'",
+                "url": "https://github.com/Amegodev/amegodev.github.io/raw/master/api/Online%20Audio%20Player/You%20look%20like%20a%20uhhhh.mp3",
+                "cover": "https://files.voicy.network/cdn-cgi/image/height=100,quality=85,format=auto/public/Content/Clips/Images/4280ed3f-ecbf-4654-b967-32fee28da673-small.png"
+              }
+            ]
+          }
+        ]
+      },
+      "pdf": {}
     }
-  },
-  "apps": {
-    "defaultApp": "guide",
-    "sounds": {
-      "categories": [
-        {
-          "title": "Project: Playtime",
-          "cover": "https://cdn.discordapp.com/attachments/1059141813786644580/1063880048584700076/unnamed_1.png",
-          "audios": [
-            {
-              "title": "Are you scared !!!",
-              "url": "https://cdn.discordapp.com/attachments/1059141813786644580/1063881433753583677/PROJECT_PLAYTIME-_All_Prototype1006_Sound_Effect_Part_2.mp3",
-              "cover": "https://cdn.discordapp.com/attachments/1059141813786644580/1063882232554606602/capsule_616x353.jpg"
-            }
-          ]
-        },
-        {
-          "title": "OTHER SOUND",
-          "cover": "http://cdn.onlinewebfonts.com/svg/img_228274.png",
-          "audios": []
-        }
-      ]
-    },
-    "guide": {
-      "articles": [
-        {
-          "title": "Introduction",
-          "coverUrl": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4679648/3004146656be4fd3a69e364086f787f7/eyJ3Ijo5NjAsIndlIjoxfQ==/2.png?token-time=1672790400&token-hash=OmHWGjNE4jYInWsn6337Evc3ClG5rQuPau2z-CwQE8o%3D",
-          "content": [
-            {
-              "subTitle": "Introduction",
-              "linkTitle": "",
-              "Link": "",
-              "img_url": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4679648/3004146656be4fd3a69e364086f787f7/eyJ3Ijo5NjAsIndlIjoxfQ==/2.png?token-time=1672790400&token-hash=OmHWGjNE4jYInWsn6337Evc3ClG5rQuPau2z-CwQE8o%3D",
-              "text": "This guide includes:\n\nEngine development concepts.\nSetting up development environment.\nCreating a complete one-lane-tap-only rhythm game engine from scratch.\n",
-              "isNative": true
-            },
-            {
-              "subTitle": "",
-              "linkTitle": "GitHub",
-              "Link": "https://github.com/Sonolus/wiki-sonolus.js-guide-code",
-              "img_url": "",
-              "text": "Source code of the guide's one-lane-tap-only rhythm game engine can be found on Github in the following link 👇",
-              "isNative": false
-            }
-          ],
-          "articles": []
-        },
-        {
-          "title": "Title 2 long one that can be tall more than device width, but this wasn't enaugh so I have to write this nonsense words, someone stop me please !!! come on bro",
-          "coverUrl": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/com.fortnitebattleroyale.chaptertwo.seasonnine/wallpapers/image2.png",
-          "content": [],
-          "articles": [
-            {
-              "title": "Title 2 long one that can be tall more than device width, but this wasn't enaugh so I have to write this nonsense words, someone stop me please !!! come on bro",
-              "coverUrl": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/com.fortnitebattleroyale.chaptertwo.seasonnine/wallpapers/image2.png",
-              "content": [
-                {
-                  "subTitle": "Hello Hello 1",
-                  "linkTitle": "Download App",
-                  "Link": "https://play.google.com/store/apps/details?id=com.uiux.colorfullistview",
-                  "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
-                  "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
-                  "isNative": false
-                },
-                {
-                  "subTitle": "Hello word 2",
-                  "linkTitle": "",
-                  "Link": "",
-                  "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
-                  "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
-                  "isNative": false
-                }
-              ],
-            "articles": []
-            }
-          ]
-        }
-      ],
-      "backgroundImg": "https://usercontent1.hubstatic.com/8037694.jpg"
-    },
-    "pdf": {}
   }
-}
