@@ -22,8 +22,78 @@
       "defaultApp": "guide",
       "guide": {
         "articles": [
+            {
+              "title": "Gallery",
+              "coverUrl": "https://i.ytimg.com/vi/owojAGxj2Lc/maxresdefault.jpg",
+              "content": [],
+              "articles": [
+                {
+                  "title": "Gallery",
+                  "coverUrl": "https://karyaadalahdoa.id/wp-content/uploads/2022/11/Sonolus-Rush-E-Server.jpg",
+                  "content": [
+                    {
+                        "subTitle": "",
+                        "linkTitle": "",
+                        "Link": "",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp1.jpg",
+                        "text": "",
+                        "isNative": false
+                    },
+                    {
+                        "subTitle": "",
+                        "linkTitle": "",
+                        "Link": "",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp2.jpg",
+                        "text": "",
+                        "isNative": false
+                      },
+                      {
+                        "subTitle": "",
+                        "linkTitle": "",
+                        "Link": "",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp3.jpg",
+                        "text": "",
+                        "isNative": false
+                      },
+                      {
+                        "subTitle": "",
+                        "linkTitle": "",
+                        "Link": "",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp4.jpg",
+                        "text": "",
+                        "isNative": false
+                      },
+                      {
+                        "subTitle": "",
+                        "linkTitle": "",
+                        "Link": "",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp5.jpg",
+                        "text": "",
+                        "isNative": false
+                      },
+                      {
+                        "subTitle": "",
+                        "linkTitle": "",
+                        "Link": "",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp6.jpg",
+                        "text": "",
+                        "isNative": false
+                      },
+                      {
+                        "subTitle": "",
+                        "linkTitle": "",
+                        "Link": "",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp7.jpg",
+                        "text": "",
+                        "isNative": false
+                      }
+                  ]
+                }
+              ]
+            },
+            
           {
-            "title": "Introduction",
+            "title": "Pictures",
             "coverUrl": "https://i.ytimg.com/vi/owojAGxj2Lc/maxresdefault.jpg",
             "content": [],
             "articles": [
@@ -56,50 +126,6 @@
                     "isNative": false
                   }
                 ]
-              },  
-              {
-                "title": "Gameplay",
-                "coverUrl": "https://play-lh.googleusercontent.com/IF-HGG6iRh5DmnJqSGJ1_r4MJlMKG2SpCIdD1j3hmVniOB5LKXm9L2ancLdvb2dYhg=w800-h500",
-                "content": [
-                  {
-                    "subTitle": "Gameplay",
-                    "linkTitle": "",
-                    "Link": "",
-                    "img_url": "",
-                    "text": "Project: Playtime is a spin-off, multi-player online game that allows seven different players to join a lobby together to play a game. Six players will play as, as Leith Pierre explains it, 'Resource Extraction Specialists' that must collect six different toy parts scattered around the factory. Some of these parts require puzzles that one or multiple other players must be involved in to obtain said items.\nWhile this is happening, the final seventh player can choose to be one of the three notable antagonists seen within the Poppy Playtime franchise: Huggy Wuggy, Mommy Long Legs, and the brand new monster, Boxy Boo. The monster is tasked with defeating all six players no matter the costs, having unique and special abilities to assist them.",
-                    "isNative": false
-                  },
-                  {
-                    "subTitle": "Features",
-                    "linkTitle": "",
-                    "Link": "",
-                    "img_url": "",
-                    "text": "As a survivor, you must complete six different puzzles seen on the Puzzle Pillars spread across the two current maps. Each Survivor will wield a GrabPack, which can be used to complete said puzzles, close doors, etc. The survivors must collect all six Toy Parts before merging all the parts together to create the train alongside reboarding the train once again to finish their job.",
-                    "isNative": false
-                  },
-                  {
-                    "subTitle": "",
-                    "linkTitle": "",
-                    "Link": "",
-                    "img_url": "",
-                    "text": "As a monster, you have three distinct characters to choose from, each one a living, gargantuan monstrosity based off a Playtime Co. toy. Huggy Wuggy, Mommy Long Legs, and newcomer Boxy Boo all offer their own sets of abilities and unique styles of play. Whether you wish to be a manic brute with Huggy, quick and nimble with Mommy, or a springy hunter with Boxy, there's a monster to fit the bill.",
-                    "isNative": false
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "title": "How to play",
-            "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1961460/ss_a787de5919c09a308d02e4d0d5be832395a9d736.1920x1080.jpg?t=1670860786",
-            "content": [
-              {
-                "subTitle": "Coming soon",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "",
-                "text": "",
-                "isNative": true
               }
             ]
           }
