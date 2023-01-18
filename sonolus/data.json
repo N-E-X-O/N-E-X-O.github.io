@@ -86,27 +86,35 @@
                 "coverUrl": "https://karyaadalahdoa.id/wp-content/uploads/2022/11/Sonolus-Rush-E-Server.jpg",
                 "content": [
                   {
-                    "subTitle": "Project: Playtime",
+                    "subTitle": "Sonolus: Rythm Game",
                     "linkTitle": "",
                     "Link": "",
                     "img_url": "",
-                    "text": "Project: Playtime is a free-to-play co-op horror experience set in the Playtime Co. toy factory. It was teased by MOB Entertainment on Twitter on October 31, 2022.[1] The game is also a prequel to Poppy Playtime. The early access was supposed to release on December 6, 2022, and the full game is set to be completed around the first half of 2023, with continuous updates in the future adding more maps, skins, monsters and a full overarching story.",
+                    "text": "Sonolus is a next generation Mobile Rhythm Game that aims to provide maximum freedom to players and level makers."
                     "isNative": false
                   },
                   {
-                    "subTitle": "",
+                    "subTitle": "Script Powered",
                     "linkTitle": "",
                     "Link": "",
                     "img_url": "",
-                    "text": "On October 31, 2022, a reveal image of Project: Playtime was released alongside a FTP server code to tease upcoming areas within Project: Playtime. Multiple areas and Boxy Boo was teased until November 24, 2022, when a Cinematic trailer, the Steam page, and a Gameplay trailer were all released to show what to expect in Project: Playtime. Alongside all of this, it was confirmed that the early access release date for this game would be December 12, 2022 instead of December 6, 2022.",
+                    "text": "With powerful and performant scripting system, you can create any rhythm game engine imaginable.Whether it's to replicate an existing game or to create an entirely different engine, you can do it all."
                     "isNative": false
                   },
                   {
-                    "subTitle": "",
+                    "subTitle": "Servers",
                     "linkTitle": "",
                     "Link": "",
                     "img_url": "",
-                    "text": "The game, confirmed, was previously estimated to be released at 7:30 CST on December 6th, although it was confirmed that there was additional server back-end issues that the programmers had to fix before release. An entire 12 hours go by without a word until Micah Preciado and Isaac Christopherson state that they aren't able to fix the bug that specific day. As of December 8th, we have not had any news regarding a possible release date.",
+                    "text": "A wide variety of servers available for different game modes! Join our community for more."
+                    "isNative": false
+                  },
+                  {
+                    "subTitle": "Community",
+                    "linkTitle": "",
+                    "Link": "",
+                    "img_url": "",
+                    "text": "Join our community for latest development news and information!"
                     "isNative": false
                   }
                 ]
