@@ -1,1 +1,152 @@
-{}
+{
+    "currentAppVersion": "1.0.0",
+    "forceUpdate": true,
+    "title": "Update available",
+    "body": "New version is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",
+    "updateLink": "https://play.google.com/store/apps/details?id=com.softapp.rythm.sonolus_wiki",
+    "approved": true,
+    "ads": {
+      "adNetwork": "unity",
+      "frequency": 3,
+      "ids": {
+        "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
+        "banner": "0e1801f0d2d177c0",
+        "inter": "712bae85337cd969",
+        "reward": "e3e2458663e289e7",
+        "native": "e3e2458663e289e7",
+        "mRec": "e3e2458663e289e7",
+        "appOpen": "ca-app-pub-3940256099942544/3419835294"
+      }
+    },
+    "apps": {
+      "defaultApp": "guide",
+      "guide": {
+        "articles": [
+            {
+              "title": "Gallery",
+              "coverUrl": "https://i.ytimg.com/vi/owojAGxj2Lc/maxresdefault.jpg",
+              "content": [],
+              "articles": [
+                {
+                  "title": "Gallery",
+                  "coverUrl": "https://karyaadalahdoa.id/wp-content/uploads/2022/11/Sonolus-Rush-E-Server.jpg",
+                  "content": [
+                    {
+                        "subTitle": "",
+                        "linkTitle": "",
+                        "Link": "",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp1.jpg",
+                        "text": "",
+                        "isNative": false
+                    },
+                    {
+                        "subTitle": "",
+                        "linkTitle": "",
+                        "Link": "",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp2.jpg",
+                        "text": "",
+                        "isNative": false
+                      },
+                      {
+                        "subTitle": "",
+                        "linkTitle": "",
+                        "Link": "",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp3.jpg",
+                        "text": "",
+                        "isNative": false
+                      },
+                      {
+                        "subTitle": "",
+                        "linkTitle": "",
+                        "Link": "",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp4.jpg",
+                        "text": "",
+                        "isNative": false
+                      },
+                      {
+                        "subTitle": "",
+                        "linkTitle": "",
+                        "Link": "",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp5.jpg",
+                        "text": "",
+                        "isNative": false
+                      },
+                      {
+                        "subTitle": "",
+                        "linkTitle": "",
+                        "Link": "",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp6.jpg",
+                        "text": "",
+                        "isNative": false
+                      },
+                      {
+                        "subTitle": "",
+                        "linkTitle": "",
+                        "Link": "",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp7.jpg",
+                        "text": "",
+                        "isNative": false
+                      }
+                  ]
+                }
+              ]
+            },
+            
+          {
+            "title": "Pictures",
+            "coverUrl": "https://i.ytimg.com/vi/owojAGxj2Lc/maxresdefault.jpg",
+            "content": [],
+            "articles": [
+              {
+                "title": "Introduction",
+                "coverUrl": "https://karyaadalahdoa.id/wp-content/uploads/2022/11/Sonolus-Rush-E-Server.jpg",
+                "content": [
+                  {
+                    "subTitle": "Project: Playtime",
+                    "linkTitle": "",
+                    "Link": "",
+                    "img_url": "",
+                    "text": "Project: Playtime is a free-to-play co-op horror experience set in the Playtime Co. toy factory. It was teased by MOB Entertainment on Twitter on October 31, 2022.[1] The game is also a prequel to Poppy Playtime. The early access was supposed to release on December 6, 2022, and the full game is set to be completed around the first half of 2023, with continuous updates in the future adding more maps, skins, monsters and a full overarching story.",
+                    "isNative": false
+                  },
+                  {
+                    "subTitle": "",
+                    "linkTitle": "",
+                    "Link": "",
+                    "img_url": "",
+                    "text": "On October 31, 2022, a reveal image of Project: Playtime was released alongside a FTP server code to tease upcoming areas within Project: Playtime. Multiple areas and Boxy Boo was teased until November 24, 2022, when a Cinematic trailer, the Steam page, and a Gameplay trailer were all released to show what to expect in Project: Playtime. Alongside all of this, it was confirmed that the early access release date for this game would be December 12, 2022 instead of December 6, 2022.",
+                    "isNative": false
+                  },
+                  {
+                    "subTitle": "",
+                    "linkTitle": "",
+                    "Link": "",
+                    "img_url": "",
+                    "text": "The game, confirmed, was previously estimated to be released at 7:30 CST on December 6th, although it was confirmed that there was additional server back-end issues that the programmers had to fix before release. An entire 12 hours go by without a word until Micah Preciado and Isaac Christopherson state that they aren't able to fix the bug that specific day. As of December 8th, we have not had any news regarding a possible release date.",
+                    "isNative": false
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "backgroundImg": "https://cdn.akamai.steamstatic.com/steam/apps/1961460/ss_a787de5919c09a308d02e4d0d5be832395a9d736.1920x1080.jpg?t=1670860786"
+      },
+      "sounds": {
+        "categories": [
+          {
+            "title": "MEMES Sounds",
+            "cover": "https://archive.org/download/FamousCharactersTrollFaceOkayMemeFace139927/Famous-characters-Troll-face-Okay-meme-face-139927.png",
+            "audios": [
+              {
+                "title": "You look like a 'hhh'",
+                "url": "https://github.com/Amegodev/amegodev.github.io/raw/master/api/Online%20Audio%20Player/You%20look%20like%20a%20uhhhh.mp3",
+                "cover": "https://files.voicy.network/cdn-cgi/image/height=100,quality=85,format=auto/public/Content/Clips/Images/4280ed3f-ecbf-4654-b967-32fee28da673-small.png"
+              }
+            ]
+          }
+        ]
+      },
+      "pdf": {}
+    }
+  }
