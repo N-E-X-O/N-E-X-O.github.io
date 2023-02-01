@@ -1,0 +1,75 @@
+{
+    "currentAppVersion": "1.0.0",
+    "forceUpdate": true,
+    "title": "Update available",
+    "body": "New version is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",
+    "updateLink": "https://play.google.com/store/apps/details?id=com.softapp.rythm.sonolus_wiki",
+    "approved": true,
+    "ads": {
+        "adNetwork": "admob",
+        "frequency": 3,
+        "ids": {
+            "appId": "2215451331176801",
+            "banner": "ca-app-pub-3940256099942544/6300978111",
+            "inter": "ca-app-pub-3940256099942544/1033173712",
+            "reward": "ca-app-pub-3940256099942544/5224354917",
+            "native": "ca-app-pub-3940256099942544/2247696110",
+            "mRec": "/6499/example/rewarded",
+            "appOpen": "ca-app-pub-3940256099942544/3419835294"
+        },
+        "idsapplovin": {
+            "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
+            "banner": "0e1801f0d2d177c0",
+            "inter": "712bae85337cd969",
+            "reward": "e3e2458663e289e7",
+            "native": "e3e2458663e289e7",
+            "mRec": "e3e2458663e289e7",
+            "appOpen": "ca-app-pub-3940256099942544/3419835294"
+        },
+        "idsunity": {
+            "appId": "5119852",
+            "banner": "Banner_Android",
+            "inter": "Interstitial_Android",
+            "reward": "e3e2458663e289e7",
+            "native": "e3e2458663e289e7",
+            "mRec": "e3e2458663e289e7",
+            "appOpen": "ca-app-pub-3940256099942544/3419835294"
+        }
+    },
+    "apps": {
+        "defaultApp": "webview",
+        "webview": {
+            "backgroundImg": "https://usercontent1.hubstatic.com/8037694.jpg",
+            "links": [
+                {
+                    "title": "Play game",
+                    "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
+                    "url": "https://www.google.com",
+                    "links": [
+                        {
+                            "title": "Over Cursed",
+                            "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/132872/small.gif",
+                            "url": "https://www.y8.com/games/overcursed/mobile",
+                        },
+                        {
+                            "title": "DarkWeb",
+                            "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/136723/small.gif",
+                            "url": "https://www.y8.com/games/dreader/mobile",
+                        },
+                        {
+                            "title": "Steveman Horror",
+                            "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/150528/small.gif",
+                            "url": "https://www.y8.com/games/steveman_horror/mobile",
+                        },
+                        {
+                            "title": "Color Horror",
+                            "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/121667/small.gif",
+                            "url": "https://www.y8.com/games/color_horror/mobile",
+                        }
+                    ]
+                }
+            ]
+        },
+        "pdf": {}
+    }
+}
