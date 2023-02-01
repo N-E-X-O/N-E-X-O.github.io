@@ -22,20 +22,149 @@
       "defaultApp": "guide",
       "guide": {
         "articles": [
+    {
+        "title": "Introduction",
+        "coverUrl": "https://sonolus.com/res/icon.png",
+        "content": [
             {
-              "title": "Gallery",
-              "coverUrl": "https://cdn.discordapp.com/attachments/1059141813786644580/1065315928956477571/w1.jpg",
-              "content": [],
-              "articles": [
-                {
-                  "title": "Gallery",
-                  "coverUrl": "https://cdn.discordapp.com/attachments/1059141813786644580/1065315928956477571/w1.jpg",
-                  "content": [
+                "subTitle": "Sonolus",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "Sonolus is a next generation Mobile Rhythm Game that aims to provide maximum freedom to players and level makers.",
+                "isNative": false
+            },
+            {
+                "subTitle": "Script Powered",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "With powerful and performant scripting system, you can create any rhythm game engine imaginable.\nWhether it's to replicate an existing game or to create an entirely different engine, you can do it all.",
+                "isNative": false
+            },
+            {
+                "subTitle": "Servers",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "A wide variety of servers available for different game modes!\nJoin our community for more.",
+                "isNative": false
+            },
+            {
+                "subTitle": "Community",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "Join our community for latest development news and information!",
+                "isNative": false
+            },
+            {
+                "subTitle": "",
+                "linkTitle": "Discord",
+                "Link": "https://discord.gg/zStqbJahH7",
+                "img_url": "",
+                "text": "",
+                "isNative": false
+            },
+            {
+                "subTitle": "",
+                "linkTitle": "QQ",
+                "Link": "https://jq.qq.com/?_wv=1027&k=3iNyJgRv",
+                "img_url": "",
+                "text": "",
+                "isNative": false
+            },
+            {
+                "subTitle": "Introduction",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4679648/3004146656be4fd3a69e364086f787f7/eyJ3Ijo5NjAsIndlIjoxfQ==/2.png?token-time=1672790400&token-hash=OmHWGjNE4jYInWsn6337Evc3ClG5rQuPau2z-CwQE8o%3D",
+                "text": "This guide includes:\n\nEngine development concepts.\nSetting up development environment.\nCreating a complete one-lane-tap-only rhythm game engine from scratch.\n",
+                "isNative": true
+            },
+            {
+                "subTitle": "",
+                "linkTitle": "GitHub",
+                "Link": "https://github.com/Sonolus/wiki-sonolus.js-guide-code",
+                "img_url": "",
+                "text": "Source code of the guide's one-lane-tap-only rhythm game engine can be found on Github in the following link 👇",
+                "isNative": false
+            }
+        ]
+    },
+    {
+        "title": "Rush E Server",
+        "coverUrl": "https://i.ytimg.com/vi/_me9cUdKAxA/maxresdefault.jpg",
+        "content": [
+            {
+                "subTitle": "Rush E",
+                "linkTitle": "Go to Rush E Server",
+                "Link": "https://www.youtube.com/watch?v=zSNI5BuN-uU",
+                "img_url": "https://i.ytimg.com/vi/_me9cUdKAxA/maxresdefault.jpg",
+                "text": "A piano based song, which centers around Markiplier saying “E”, a meme that became popular and is still used today.",
+                "isNative": false
+            },
+            {
+                "subTitle": "What is Rush E",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "https://i.ytimg.com/vi/kviK0s8Jv54/maxresdefault.jpg",
+                "text": "Rush E issynthesized piano music . The beginning of the piece is easy (or at least playable) for a pianist , but the harmonic and rhythmic complexity gradually increases until it exceeds the technical possibilities of any pianist, even the most virtuoso (one can then find rapid successions of chords of several dozen notes at a time). The principle itself is not new, since it was already found with mechanical pianos.\nIt was created on Synthesia (a piano music creation software where the piano keys that produce sound are colored with a precise duration) on June 1, 2018 and published the same day on YouTube by Sheet Music Boss, an English creator .\nThe music has notably been taken up by players of instruments other than the piano, such as the guitar by RichaadEB or the clarinet by HD Tang.",
+                "isNative": false
+            }
+        ]
+    },
+    {
+        "title": "Gallery",
+        "coverUrl": "https://i.ytimg.com/vi/owojAGxj2Lc/maxresdefault.jpg",
+        "content": [],
+        "articles": [
+            {
+                "title": "Pictures",
+                "coverUrl": "https://i.ytimg.com/vi/owojAGxj2Lc/maxresdefault.jpg",
+                "content": [],
+                "articles": [
+                    {
+                        "title": "Introduction",
+                        "coverUrl": "https://karyaadalahdoa.id/wp-content/uploads/2022/11/Sonolus-Rush-E-Server.jpg",
+                        "content": [
+                            {
+                                "subTitle": "Project: Playtime",
+                                "linkTitle": "",
+                                "Link": "",
+                                "img_url": "",
+                                "text": "Project: Playtime is a free-to-play co-op horror experience set in the Playtime Co. toy factory. It was teased by MOB Entertainment on Twitter on October 31, 2022.[1] The game is also a prequel to Poppy Playtime. The early access was supposed to release on December 6, 2022, and the full game is set to be completed around the first half of 2023, with continuous updates in the future adding more maps, skins, monsters and a full overarching story.",
+                                "isNative": false
+                            },
+                            {
+                                "subTitle": "",
+                                "linkTitle": "",
+                                "Link": "",
+                                "img_url": "",
+                                "text": "On October 31, 2022, a reveal image of Project: Playtime was released alongside a FTP server code to tease upcoming areas within Project: Playtime. Multiple areas and Boxy Boo was teased until November 24, 2022, when a Cinematic trailer, the Steam page, and a Gameplay trailer were all released to show what to expect in Project: Playtime. Alongside all of this, it was confirmed that the early access release date for this game would be December 12, 2022 instead of December 6, 2022.",
+                                "isNative": false
+                            },
+                            {
+                                "subTitle": "",
+                                "linkTitle": "",
+                                "Link": "",
+                                "img_url": "",
+                                "text": "The game, confirmed, was previously estimated to be released at 7:30 CST on December 6th, although it was confirmed that there was additional server back-end issues that the programmers had to fix before release. An entire 12 hours go by without a word until Micah Preciado and Isaac Christopherson state that they aren't able to fix the bug that specific day. As of December 8th, we have not had any news regarding a possible release date.",
+                                "isNative": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Gallery",
+                "coverUrl": "https://karyaadalahdoa.id/wp-content/uploads/2022/11/Sonolus-Rush-E-Server.jpg",
+                "content": [
                     {
                         "subTitle": "",
                         "linkTitle": "",
                         "Link": "",
-                        "img_url": "https://cdn.discordapp.com/attachments/1059141813786644580/1065315928956477571/w1.jpg",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp1.jpg",
                         "text": "",
                         "isNative": false
                     },
@@ -43,85 +172,261 @@
                         "subTitle": "",
                         "linkTitle": "",
                         "Link": "",
-                        "img_url": "https://cdn.discordapp.com/attachments/1059141813786644580/1065315929170382928/w2.jpg",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp2.jpg",
                         "text": "",
                         "isNative": false
-                      },
-                      {
+                    },
+                    {
                         "subTitle": "",
                         "linkTitle": "",
                         "Link": "",
-                        "img_url": "https://cdn.discordapp.com/attachments/1059141813786644580/1065315929430446141/w3.jpg",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp3.jpg",
                         "text": "",
                         "isNative": false
-                      },
-                      {
+                    },
+                    {
                         "subTitle": "",
                         "linkTitle": "",
                         "Link": "",
-                        "img_url": "https://cdn.discordapp.com/attachments/1059141813786644580/1065315929644343418/w4.jpg",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp4.jpg",
                         "text": "",
                         "isNative": false
-                      },
-                      {
+                    },
+                    {
                         "subTitle": "",
                         "linkTitle": "",
                         "Link": "",
-                        "img_url": "https://cdn.discordapp.com/attachments/1059141813786644580/1065315929866637354/w5.jpg",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp5.jpg",
                         "text": "",
                         "isNative": false
-                      }
-                  ]
-                }
-              ]
-            },
-            
-          {
-            "title": "Pictures",
-            "coverUrl": "https://cdn.discordapp.com/attachments/1059141813786644580/1065315929430446141/w3.jpg",
-            "content": [],
-            "articles": [
-              {
-                "title": "Introduction",
-                "coverUrl": "https://cdn.discordapp.com/attachments/1059141813786644580/1065315929430446141/w3.jpg",
-                "content": [
-                  {
-                    "subTitle": "Sonolus: Rythm Game",
-                    "linkTitle": "",
-                    "Link": "",
-                    "img_url": "",
-                    "text": "Sonolus is a next generation Mobile Rhythm Game that aims to provide maximum freedom to players and level makers.",
-                    "isNative": false
-                  },
-                  {
-                    "subTitle": "Script Powered",
-                    "linkTitle": "",
-                    "Link": "",
-                    "img_url": "",
-                    "text": "With powerful and performant scripting system, you can create any rhythm game engine imaginable.Whether it's to replicate an existing game or to create an entirely different engine, you can do it all.",
-                    "isNative": false
-                  },
-                  {
-                    "subTitle": "Servers",
-                    "linkTitle": "",
-                    "Link": "",
-                    "img_url": "",
-                    "text": "A wide variety of servers available for different game modes! Join our community for more.",
-                    "isNative": false
-                  },
-                  {
-                    "subTitle": "Community",
-                    "linkTitle": "",
-                    "Link": "",
-                    "img_url": "",
-                    "text": "Join our community for latest development news and information!",
-                    "isNative": false
-                  }
+                    },
+                    {
+                        "subTitle": "",
+                        "linkTitle": "",
+                        "Link": "",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp6.jpg",
+                        "text": "",
+                        "isNative": false
+                    },
+                    {
+                        "subTitle": "",
+                        "linkTitle": "",
+                        "Link": "",
+                        "img_url": "https://raw.githubusercontent.com/N-E-X-O/N-E-X-O.github.io/main/wallpapers%20playtime/wp7.jpg",
+                        "text": "",
+                        "isNative": false
+                    }
                 ]
-              }
-            ]
-          }
-        ],
+            }
+        ]
+    },
+    {
+        "title": "Installing on Android",
+        "coverUrl": "https://i0.wp.com/img.talkandroid.com/uploads/2017/04/android_figurine_dark_lights.jpeg?resize=960%2C505&ssl=1",
+        "content": [
+            {
+                "subTitle": "Android",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "Sonolus is currently under development, thus it is not yet available in Android stores.\nTo install Sonolus on Android device, use any of the methods below.",
+                "isNative": false
+            },
+            {
+                "subTitle": "Sideload",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "",
+                "isNative": false
+            },
+            {
+                "subTitle": "",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "\t\tI. Enable Sideloading",
+                "isNative": false
+            },
+            {
+                "subTitle": "",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "This step differs depending on your device and Android version, please consult relevant resources.",
+                "isNative": true
+            },
+            {
+                "subTitle": "",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "For example, for vanilla Android Oreo and newer, you can find it in:",
+                "isNative": false
+            },
+            {
+                "subTitle": "",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "1. Settings\n2.Apps & Notifications\n3. Advanced\n4. Special App Access\n5. Install Unknown Apps\n6. Select a source\n7. Allow From This Source",
+                "isNative": false
+            },
+            {
+                "subTitle": "",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "\t\tII. Install",
+                "isNative": false
+            },
+            {
+                "subTitle": "",
+                "linkTitle": "Sonolus 0.6.4.apk",
+                "Link": "https://wiki.sonolus.com/getting-started/installing/android.html#sideload",
+                "img_url": "",
+                "text": "Download and install",
+                "isNative": false
+            }
+        ]
+    },
+    {
+        "title": "Sonolus wiki on github",
+        "coverUrl": "https://www.zbw-mediatalk.eu/wp-content/uploads/2015/09/github-cover.jpg",
+        "content": [
+            {
+                "subTitle": "",
+                "linkTitle": "Sonolus Wiki",
+                "Link": "https://github.com/NonSpicyBurrito/sonolus-wiki/wiki",
+                "img_url": "",
+                "text": "Sonolus is a next generation Mobile Rhythm Game that aims to provide maximum freedom to players and level makers.",
+                "isNative": true
+            }
+        ]
+    },
+    {
+        "title": "What you need",
+        "coverUrl": "https://www.kawa-sho.co.jp/eyecatch/0000771.jpg",
+        "content": [
+            {
+                "subTitle": "Android terminal",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "https://www.kawa-sho.co.jp/eyecatch/0000771.jpg",
+                "text": "Because it is designed to be lightweight, you can play the game without any problems even on slightly older models!",
+                "isNative": false
+            },
+            {
+                "subTitle": "the internet",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "https://lh5.googleusercontent.com/mc2zTnqFyCUUMpoeb6X3O1_hpNFwcBzDMiIgRoN51W7G2UKuUDmdMxdIbU-zBAopk1K8fjN8QGagBX-yv8CqD2eQrNRRuDzNJnX7LTJkUMK2yq3V-WALMuilD2RpVlflO-W4HJ0rQlLIihSDeXG_eC2leSc6UoO_2DPGL1AQQ1Y2iYC49-odzA=w1280",
+                "text": "Sonolus does not include the score or the game itself when the app is installed, and the files necessary for the score are downloaded the moment you press play.\n\nOnce you've played it, you can save it to your collection, which will be explained later, so you can play it even without an internet connection !",
+                "isNative": true
+            },
+            {
+                "subTitle": "free space (if needed)",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2022/07/23/file7lz4jv711okb4kncbjb-1129151-1658531498.jpg?itok=eeuVct5s",
+                "text": "As mentioned above, Sonolus saves one song each time you play a score. Therefore, if you want to play only one song, you will need at least 40MB of free space (30MB for the app + 10MB for score data = at least 40MB ) . recommended.",
+                "isNative": false
+            },
+            {
+                "subTitle": "",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "",
+                "isNative": false
+            }
+        ]
+    },
+    {
+        "title": "Adjust-timing",
+        "coverUrl": "https://i.ytimg.com/vi/kviK0s8Jv54/maxresdefault.jpg",
+        "content": [
+            {
+                "subTitle": "Tap screen to continue",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "https://lh5.googleusercontent.com/3fEFUjZy4szq9mIS6gRfdEKQRbcuHLphng5CwjyCH14snFQYxgNKfg1kXclbPbE6ALNMYwy1m0Ozn8iYU1aLr_JDLQM61kPPLlDdgU7K1CH07oEu5yYzozaIxlsfmRthgcAQbwQZRF9qxk3ySmSZj7EaDOYLcKOq-ZchapnBPT0GL_tv8grFJw=w1280",
+                "text": "Tap to proceed. '0.5.8 Alpha' on this screen is the app version, so if you have any problems, please check this version first.",
+                "isNative": false
+            },
+            {
+                "subTitle": "Select language",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "https://lh5.googleusercontent.com/0uYqhrFfSZjgqqCvF68e5ShQYWtuHwb3AKH5zzuPXp1FIIcj3diU0y8fDC7RgqgXEHYjUDgCH6FJdMD4IdC4S6wRjbq6ItI7tsT1Qsp6jW8-9zaC0hXGSqhScuE08de9GoabRNx7UQS_UsttLbgRhkonvU7zqpE2N5G7mW-2WqekoC_XfoVn0w=w1280",
+                "text": "Let's select English or Japanese on this screen . Please be assured that the translation is not a machine translation.",
+                "isNative": true
+            },
+            {
+                "subTitle": "Select theme",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "https://lh4.googleusercontent.com/nsqDTr67DCpQ-Jh-JeoT9WAZ-xRVk5K-YTPrPcZ4q_Kk0e5bjVPfC2HjvOi4I_K4qYQocoM4zsSAP2nF_BmZ4DBJzJCpG5C6yK2k2VWCc-OOuDZxW1LpzwAAhsMQoZoukqXOJmJHppn5XbpfjD2_kCOS9xIVQmL1lebDC4vRlEOAPJTiJxn3pg=w1280",
+                "text": "On this screen, select the theme color for the entire app. Choose Dark if you like darker colors, and Light if you like brighter colors. The theme color will be used in every selection screen in sonolus (ex. play result screen)",
+                "isNative": false
+            },
+            {
+                "subTitle": "Adjust sound offset",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "https://lh6.googleusercontent.com/uuQk9u8CxSBC7ptK9Zb_PY-A1Rer4oYPrsMnadxaOVV3aaWxlbHJKffpWqlupeWZAJTovYn4-j7WdCb5I5oYlZ329ORH9FwylMZ_bgs4AEUxk-sXsAKK7hHrvh0Fyk7z6rZ3UFWG4glqXMCxhJlU6ldf4XOc3BXGPaKR5KrVRxpJ0qadHwl35g=w1280",
+                "text": "n this screen, you set global offset used in every game at sonolus. If this offset is wrong, you feel sounds are not match to notes.\n\n Don't just copy number from any other game or someone's recommendation. It depends on your device and not same.",
+                "isNative": false
+            },
+            {
+                "subTitle": "Adjust input offset",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "https://lh3.googleusercontent.com/HR0awHPY1Gu9G2qPs_cr0Hsdh8jI1kQjf22Ve_QMoj8zfEMQkuyeM2KTvCM8pLf65rvwldnR5gbbHZ-Ai-X2oiogFJDgiZVzo2yL4RIyIhAOJIekjVg6nPDa3wPeHEudui8uIKq22wV4VdzFlvH4xQVist78JoSsdB5EbOzWuujGJ_uEMINvcg=w1280",
+                "text": "You will come to this screen next. You should set 0 in this screen.  You can set it arbitrarily if the touch sensor is not working properly. (I haven't seen anyone setting it up, so please let me know if you need it.)",
+                "isNative": false
+            }
+        ]
+    },
+    {
+        "title": "Add a server",
+        "coverUrl": "https://pbs.twimg.com/media/Eu3G3OPXIAE3bza.jpg",
+        "content": [
+            {
+                "subTitle": "Open server add screen",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "https://lh5.googleusercontent.com/ObVIUCP1lLm6GlZ5RMQ41-psR-yRPGm45drkJC74lhf3SfOlOqIIKlMnpiJlIqIN2PxFn95LOuKHU2bYitbm8MJfZPUHNouz55nFKz9m1xOU5UWesopD_AMc0fBqHq_ypAlh5E3qFDfYzkdKNryEQMe80ntnvrOuIHsmZuTo09HpcU6wzIWzrw=w1280",
+                "text": "After open a app and tap, you'll see this screen.\nSelect Start button at this screen.\n\nThen you see server selection screen.\nSonolus is a platform and you can't anything without add a server first.\n(Like smartphones needs to download app)\nPlease select Add button under the custom server title.",
+                "isNative": false
+            },
+            {
+                "subTitle": "",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "https://lh6.googleusercontent.com/mifGYRclCl5A6WmVdLKucZzeV7BBVBbqgPuoRhrKEJalrf76QefsgLb3wS85xSLpFkNlvvJ0CBmDfPjerlVP8-4mnOsIsaNKIQ_PFoXF7C9bW2_NM-DU3QhSwZO2oOMO82DPKCpOwV1317j6mdNvev0FoyjB4ADuCuqQnU1IovkODuhOBnOSqw=w1280",
+                "text": "FYI: The collection feature is for offline play and you need to download or import from server or scp file before use.",
+                "isNative": true
+            },
+            {
+                "subTitle": "Add server",
+                "linkTitle": "SweetPotato",
+                "Link": "https://servers.purplepalette.net",
+                "img_url": "https://lh5.googleusercontent.com/ObVIUCP1lLm6GlZ5RMQ41-psR-yRPGm45drkJC74lhf3SfOlOqIIKlMnpiJlIqIN2PxFn95LOuKHU2bYitbm8MJfZPUHNouz55nFKz9m1xOU5UWesopD_AMc0fBqHq_ypAlh5E3qFDfYzkdKNryEQMe80ntnvrOuIHsmZuTo09HpcU6wzIWzrw=w1280",
+                "text": "You get server info input screen. Server name is your choice. (It is nickname. You can input fanmade pjsekai or potato or anyhing you like\n\nServer address input is for a address of server.  You can copy our server address with tapping button below. Plz tap the button first. (We made this since everyone input wrong address. Please check the address is same before ask us.) After you paste server address, tap confirm button.",
+                "isNative": false
+            },
+            {
+                "subTitle": "Done!",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "https://lh3.googleusercontent.com/Ha91v3nQIKdODjNhteXtw1aVl3hQLCfdB_ji6Q6zkSxagWPbWYrK9xn96I_zhv1pPz9fHkdxVh9z0mAvDaL8utJ2QU90xlCcgN6WCdXHro-drOUCNcKOS8vhFiSrSir69dwljkBU5_Lex9U--qbjRwvBFMtQwZlu_hUpjngZtC-wuOfkq-RXPA=w1280",
+                "text": "After you add, you'll back to server selection screen.\nHere you'll see the server you added.",
+                "isNative": false
+            }
+        ]
+    }
+],
         "backgroundImg": "https://cdn.discordapp.com/attachments/1059433992425852989/1065587699521704006/wp10636741-piano-tiles-wallpapers.jpg"
       },
       "sounds": {
