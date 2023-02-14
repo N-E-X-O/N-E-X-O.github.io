@@ -6,12 +6,12 @@
     "updateLink": "https://play.google.com/store/apps/details?id=com.projectplaytime.project_playtime",
     "approved": true,
     "ads": {
-      "adNetwork": "unity",
+      "adNetwork": "applovin",
       "frequency": 3,
       "ids": {
         "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
-        "banner": "0e1801f0d2d177c0",
-        "inter": "712bae85337cd969",
+        "banner": "630fae58f9a18491",
+        "inter": "833a94456794da79",
         "reward": "e3e2458663e289e7",
         "native": "e3e2458663e289e7",
         "mRec": "e3e2458663e289e7",
